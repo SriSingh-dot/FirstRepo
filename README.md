@@ -16,3 +16,9 @@ This comprehensive mental health support website includes:
 -Multiple Support Options - Various ways to get help
 -Motivational Reminders - Timed encouraging messages
 -The site is designed to be both functional and emotionally supportive, providing practical tools while maintaining a hopeful, caring atmosphere. All content is focused on suicide     prevention, mental health support, and encouraging users to seek help when needed.
+
+
+
+
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
